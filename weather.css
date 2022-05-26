@@ -1,0 +1,44 @@
+.container{
+    margin-top: 5%;
+    padding: 50px;
+    background-color: skyblue;
+    border-radius: 12px;
+    height: 700px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.box{
+    text-align: center;
+    justify-content: center;
+    margin-top: 20%;
+    justify-content: space-around;
+    border-radius: 10px;
+   
+}
+h1{
+   text-align: center;
+    margin-bottom: 5%;
+    color: black;
+    text-decoration: underline;
+}
+
+.box h2{
+    color: black;
+}
+.container .box{
+    margin-top: 8%;
+}
+.myicon{
+    font-size: 40px;
+    color: yellow;
+}
+.mybtn{
+    background-color: navy !important;
+    margin-left: 2px;
+}
+
+#myicon{
+    font-size: 40px;
+}
